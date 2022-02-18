@@ -1,7 +1,8 @@
 from asyncio.windows_events import NULL
 
 
-error = 0
+error = 0  # Se inicializa la variable error para posteriormente
+# almacenar el codigo del error segun corresponda 
 
 
 def DeterminaSiEsNumeroValido(Entrada):  # Determina si el mensaje es una
