@@ -1,3 +1,5 @@
+# ERR4 -2.5 en num_to_str
+# ERR7 -2 No retorna el string rotado en sus letras o el código de error
 """
 RICARDO CASTRO BARRENECHEA
 JOSE MAURICIO BRENES SILES
